@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "Fortnite",
+      "last_update": "17.09.2026",
+      "driver_version": "12.7",
+      "users": 0
+    },
+    {
+      "name": "Temp woofer",
+      "last_update": "12.09.2026",
+      "driver_version": "1.0",
+      "users": 0
+    },
+    {
+      "name": "Bodycam",
+      "last_update": "15.09.2026",
+      "driver_version": "10.4",
+      "users": 0
+    },
+    {
+      "name": "Rust",
+      "last_update": "16.09.2026",
+      "driver_version": "7.2",
+      "users": 0
+    }
+  ],
+  "killswitch": 0
+}
