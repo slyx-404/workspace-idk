@@ -1,0 +1,60 @@
+Clearence - Fortnite External
+
+Aimbot
+
+Enabled
+Aim Key
+Bone (Head / Neck / Chest)
+Fov
+Fov Slider
+Smooth
+Strength
+Stick Speed
+Max Distance
+Deadzone
+Jitter
+Target Lock
+Prediction
+Output (ViGEm Stick / Memory Angles)
+Show Fov
+Fov Outline
+Fill Fov
+Fov Circle Color
+Fov Fill Color
+Crosshair
+Target Line
+Target Dot
+Players [Visual]
+
+Enabled
+Box
+Corner Box
+3D Box
+Box Type (Normal / Corner / 3D / Custom)
+Box Visible Color
+Box Occluded Color
+Teammate Box Color
+Skeleton
+Rounded Skeleton
+Skel Visible Color
+Skel Occluded Color
+Head Dot
+Name
+Kills
+Distance
+Weapon Names
+Platform Icons
+Rank Icons
+Snaplines
+Radar
+Team Check
+Max Distance
+World
+
+Nothing yet / Coming Soon
+Settings [Config]
+
+VSync
+Watermark (Clearence | User | FPS)
+Cache Stats (Enum / Bones / Cam ms)
+Build Tag
