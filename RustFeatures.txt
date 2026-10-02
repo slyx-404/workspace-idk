@@ -1,0 +1,210 @@
+Clearence - Rust External
+
+Aimbot
+
+- Enabled
+
+- Aim Key
+
+- Bone
+
+- Fov
+
+- Fov Slider
+
+- Smoothness
+
+- Max Distance
+
+- Visible Only
+
+- Target Npcs
+
+- Fov Color
+
+- Silent Aim
+
+- Silent Aim Bone
+
+- Fov Slider
+
+- Fov Color
+
+
+Players
+
+- Enabled
+
+- Box
+
+- 3d Box
+
+- Fill
+
+- Name
+
+- Distance
+
+- Visible Check
+
+- Weapon
+
+- Skeleton
+
+- Line of View
+
+- Halo
+
+- Hotbar
+
+- Clothing
+
+- China Hat
+
+- Box Type
+
+- Box Length
+
+- Distance
+
+- Players
+
+- Npcs
+
+- Sleeping
+
+- Wounded
+
+- Corpse
+
+
+
+World
+
+- Enabled
+
+- Max Distance
+
+- Draw Name
+
+- Draw Distance
+
+- Battle Mode
+
+- Dropped Items
+
+- Drop Distance
+
+- Weapons
+
+- Ammo
+
+- Medical
+
+- Attire
+
+- Tools
+
+- Resources
+
+- Components
+
+- Misc
+
+- Trap Distance
+
+- Auto Turret
+
+- Flame Turret
+
+- Shotgun Trap
+
+- Sam Site
+
+- Animals
+
+- Animal Distance
+
+- Elite Crate
+
+- Military Crate
+
+- Crate
+
+- Airdrop
+
+- Locked Crate
+
+- Corpse
+
+- Caves
+
+- Show Name (Ore)
+
+- Show Distance (Ore)
+
+- Ore Distance
+
+- Stone
+
+- Metal
+
+- Sulfur
+
+- Show Name (Collectable)
+
+- Show Distance (Collectable)
+
+- Coll Distance
+
+- Hemp
+
+- Show Name (Vehicle)
+
+- Show Distance (Vehicle)
+
+- Vehicle Distance
+
+- Minicopter
+
+- Scrap Heli
+
+- Tugboat
+
+- Show Name (Deployable)
+
+- Show Distance (Deployable)
+
+- Deploy Distance
+
+- Stash
+
+- Tool Cupboard
+
+- Tc Upkeep
+
+- Tc Auth
+
+- Tc Distance
+
+- Workbench T1
+
+- Workbench T2
+
+- Workbench T3
+
+- Wb Distance
+
+- Show Name (Other)
+
+- Show Distance (Other)
+
+- Other Distance
+
+
+
+Settings
+
+- Watermark
+
+- Array List
